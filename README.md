@@ -2,7 +2,7 @@
 
 Trying to create a new binary system to use Emoticons instead of 1's and 0's
 
-//*/"This is the start of my project to create a binary code system to use Emoticons as the default TCP/IP protocols, and as a filing system naming convention//*/
+##"This is the start of my project to create a binary code system to use Emoticons as the default TCP/IP protocols, and as a filing system naming convention##
 
 ##"This system will need to convert binary code to Font + .img file formatting removing the string values of the standard UTF-8/UTF-16 format."##
 
